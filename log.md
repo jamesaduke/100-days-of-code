@@ -28,3 +28,35 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 1: July 28, 2020 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Did apple and orange hackerrank problem
+
+**Thoughts:** Learned more about for loops and ranges through this problem. Also accessing arrays. 
+
+**Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
+
+### Day 2: July 28, 2020 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Brushing up hyperskill project 1 on coffee machine.
+
+**Thoughts:** Learned a lot about formatting strings and making the code more readable in print statements. 
+
+**Link to work:** [Coffee machine Stage 6](https://hyperskill.org/curriculum)
+
+
+### Reset 
+
+### Day 0: August 02, 2020 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Did hackerank kangaroo problem 
+
+**Thoughts:** Learned more about for loops and ranges through this problem. 
+
+**Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/kangaroo/problem)
