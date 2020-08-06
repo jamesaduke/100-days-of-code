@@ -61,7 +61,7 @@
 
 **Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/kangaroo/problem)
 
-### Day 1: August 02, 2020 (Example 2)
+### Day 1: August 03, 2020 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Did hackerank between two sets problem, watched Google Cloud Platform Content on Resource monitoring and error reporting
@@ -69,3 +69,23 @@
 **Thoughts:** learned about the reduce function and how it is used in python. 
 
 **Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/between-two-sets/problem)
+
+### Day 2: August 04, 2020 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Did hackerank between two sets problem, watched Google Cloud Platform Content on Resource monitoring and error reporting
+
+**Thoughts:** learned about the reduce function and how it is used in python. 
+
+**Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/between-two-sets/problem)
+
+
+
+### Day 1: August 06, 2020 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Started learning flask
+
+**Thoughts:** Learned a lot about routing, template inheritance and static file routing 
+
+<!-- **Link to work:** [Algorithm problem](https://www.hackerrank.com/challenges/between-two-sets/problem) -->
